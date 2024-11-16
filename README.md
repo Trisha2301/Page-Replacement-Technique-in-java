@@ -49,5 +49,9 @@ The popular 3 approaches are
    - If the page is already in the frame, do nothing.
 4. At the end, return pageFault.
 
+## Requriments 
+- Java
+- Java environment (vs code , notepad++,eclipse)
+
 > [!IMPORTANT]
 > Import Java modules correctly and change the package part in the file
